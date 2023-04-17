@@ -1,8 +1,8 @@
 # Mobile Apps 1 CA2
 
-- Student Name: Your name
-- Student ID: 123456
-- Course: Your course
+- Student Name: Jennifer Kelly Dos Santos
+- Student ID: 22605
+- Course: Science in Computing
 
 ## Requirement Checklist
 
