@@ -36,9 +36,10 @@ A short report (300-1000 words) describing the challenges you faced, failed atte
 
 ## References and Credits
 
-1. RecyclerView Example. URL: [Link](https://example.org)
-1. NotifyItemChanged Blog. URL: [Link](https://example.org)
+1. RecyclerView Example. URL: [Link](https://stackoverflow.com/questions/38167839/recyclerview-vs-viewpager)
+2.  URL: [Link](https://example.org)
+3. Font family URL: [Link](https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android)
 
 ## APK Releases
 
-1. Add your release name and update this [link](https://example.org)
+1. Add your release name and update this [link](https://github.com/jenniferksantos/MobileAppCA2/tags)
