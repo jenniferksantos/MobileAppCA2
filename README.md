@@ -40,6 +40,9 @@ A short report (300-1000 words) describing the challenges you faced, failed atte
 2.  URL: [Link](https://example.org)
 3. Font family URL: [Link](https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android)
 
+## Screencast Release
+[Link](https://youtu.be/yIhPZ_bA1dg)
+
 ## APK Releases
 
 1. Add your release name and update this [link](https://github.com/jenniferksantos/MobileAppCA2/tags)
